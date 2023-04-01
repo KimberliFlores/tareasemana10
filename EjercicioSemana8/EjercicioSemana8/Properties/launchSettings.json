@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EjercicioSemana8": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Executable"
+    }
+  }
+}
